@@ -1,0 +1,16 @@
+This is the readme for wizard ui project.
+You will need the following things to run ui.py successfully in your console. 
+
+1. Kivy 
+   https://kivy.org/docs/installation/installation-osx.html
+2. Python 2.7
+   https://www.python.org/download/releases/2.7/
+3. gTTS 1.1.8
+   https://pypi.python.org/pypi/gTTS
+
+To run the file, open terminal and navigate to the directory where ui.py
+resides. Enter the command:
+$python ui.py
+
+This command should open a window showing a welcome screen. 
+
